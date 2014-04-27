@@ -1,0 +1,4 @@
+Project name : spicyberry_ver1_1
+
+Renesas SuperH RISC engine Standard Toolchain was upgraded 9.4.0.0 -> 9.4.1.0.
+

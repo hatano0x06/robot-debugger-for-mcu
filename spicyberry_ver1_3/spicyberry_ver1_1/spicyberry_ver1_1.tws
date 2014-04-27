@@ -1,0 +1,29 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"1.2" 
+[CURRENT_PROJECT]
+"spicyberry_ver1_1" 
+[GENERAL_DATA]
+[BREAKPOINTS]
+[OPEN_WORKSPACE_FILES]
+"C:\WorkSpace\spicyberry_ver1_1\spicyberry_ver1_1\spicyberry_ver1_1\action.cpp" 
+"C:\WorkSpace\spicyberry_ver1_1\spicyberry_ver1_1\spicyberry_ver1_1\basic_servo_class.cpp" 
+"C:\WorkSpace\spicyberry_ver1_1\spicyberry_ver1_1\spicyberry_ver1_1\dbsct.c" 
+"C:\WorkSpace\spicyberry_ver1_1\spicyberry_ver1_1\spicyberry_ver1_1\iodefine.h" 
+"C:\WorkSpace\spicyberry_ver1_1\spicyberry_ver1_1\spicyberry_ver1_1\sci0.c" 
+"C:\WorkSpace\spicyberry_ver1_1\spicyberry_ver1_1\spicyberry_ver1_1\sci1.c" 
+"C:\WorkSpace\spicyberry_ver1_1\spicyberry_ver1_1\spicyberry_ver1_1\servo_class.cpp" 
+"C:\WorkSpace\spicyberry_ver1_1\spicyberry_ver1_1\spicyberry_ver1_1\servo_class.h" 
+[WORKSPACE_FILE_STATES]
+"C:\WorkSpace\spicyberry_ver1_1\spicyberry_ver1_1\spicyberry_ver1_1\action.cpp" 100 100 1189 320 0 4 
+"C:\WorkSpace\spicyberry_ver1_1\spicyberry_ver1_1\spicyberry_ver1_1\basic_servo_class.cpp" 75 75 1189 320 0 3 
+"C:\WorkSpace\spicyberry_ver1_1\spicyberry_ver1_1\spicyberry_ver1_1\dbsct.c" 0 0 1185 316 0 0 
+"C:\WorkSpace\spicyberry_ver1_1\spicyberry_ver1_1\spicyberry_ver1_1\iodefine.h" 0 0 1189 320 0 6 
+"C:\WorkSpace\spicyberry_ver1_1\spicyberry_ver1_1\spicyberry_ver1_1\sci0.c" -8 -30 1330 483 1 2 
+"C:\WorkSpace\spicyberry_ver1_1\spicyberry_ver1_1\spicyberry_ver1_1\sci1.c" 0 0 1330 483 0 1 
+"C:\WorkSpace\spicyberry_ver1_1\spicyberry_ver1_1\spicyberry_ver1_1\servo_class.cpp" 125 125 1189 320 0 5 
+"C:\WorkSpace\spicyberry_ver1_1\spicyberry_ver1_1\spicyberry_ver1_1\servo_class.h" 0 0 1330 483 0 7 
+[LOADED_PROJECTS]
+"spicyberry_ver1_1" 
+[END]

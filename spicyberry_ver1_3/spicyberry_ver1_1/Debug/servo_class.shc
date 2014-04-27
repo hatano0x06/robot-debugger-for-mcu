@@ -1,0 +1,17 @@
+-cpu=sh2
+-object="C:\Users\hata\Dropbox\program\spicyberry_ver1_3\spicyberry_ver1_1\Debug\servo_class.obj"
+-debug
+-gbr=auto
+-chgincpath
+-errorpath
+"C:\Users\hata\Dropbox\program\spicyberry_ver1_3\spicyberry_ver1_1\servo_class.cpp"
+-global_volatile=1
+-opt_range=noloop
+-infinite_loop=0
+-global_alloc=0
+-const_var_propagate=0
+-schedule=0
+-del_vacant_loop=0
+-struct_alloc=1
+-lang=cpp
+-nologo

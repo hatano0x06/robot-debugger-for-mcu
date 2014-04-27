@@ -1,0 +1,14 @@
+-cpu=sh2
+-object="C:\WorkSpace\spicyberry_ver1_1\spicyberry_ver1_1\Debug\class_setup.obj"
+-debug
+-gbr=auto
+-chgincpath
+-errorpath
+"C:\WorkSpace\spicyberry_ver1_1\spicyberry_ver1_1\class_setup.cpp"
+-global_volatile=0
+-opt_range=all
+-infinite_loop=0
+-del_vacant_loop=0
+-struct_alloc=1
+-lang=cpp
+-nologo

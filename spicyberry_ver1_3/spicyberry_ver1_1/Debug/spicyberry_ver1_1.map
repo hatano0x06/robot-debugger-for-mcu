@@ -1,0 +1,62 @@
+Optimizing Linkage Editor (V.10.01.00.000)        18-May-2012 19:11:49
+
+*** Options ***
+
+-subcommand=C:\Users\hata\Dropbox\program\spicyberry_ver1_3\spicyberry_ver1_1\Debug\spicyberry_ver1_1.hlk
+-noprelink
+-rom=D=R
+-nomessage
+-list="C:\Users\hata\Dropbox\program\spicyberry_ver1_3\spicyberry_ver1_1\Debug\spicyberry_ver1_1.map"
+-nooptimize
+-start=DVECTTBL,DINTTBL,PIntPRG/00,PResetPRG/0800,P,C,C$BSEC,C$DSEC,C$INIT,D/01000,B,R/0FFFFA000,S/0FFFFBC00
+-nologo
+-input="C:\Users\hata\Dropbox\program\spicyberry_ver1_3\spicyberry_ver1_1\Debug\action.obj"
+-input="C:\Users\hata\Dropbox\program\spicyberry_ver1_3\spicyberry_ver1_1\Debug\basic_servo_class.obj"
+-input="C:\Users\hata\Dropbox\program\spicyberry_ver1_3\spicyberry_ver1_1\Debug\dbsct.obj"
+-input="C:\Users\hata\Dropbox\program\spicyberry_ver1_3\spicyberry_ver1_1\Debug\init.obj"
+-input="C:\Users\hata\Dropbox\program\spicyberry_ver1_3\spicyberry_ver1_1\Debug\interrupt.obj"
+-input="C:\Users\hata\Dropbox\program\spicyberry_ver1_3\spicyberry_ver1_1\Debug\intprg.obj"
+-input="C:\Users\hata\Dropbox\program\spicyberry_ver1_3\spicyberry_ver1_1\Debug\resetprg.obj"
+-input="C:\Users\hata\Dropbox\program\spicyberry_ver1_3\spicyberry_ver1_1\Debug\sbrk.obj"
+-input="C:\Users\hata\Dropbox\program\spicyberry_ver1_3\spicyberry_ver1_1\Debug\sci0.obj"
+-input="C:\Users\hata\Dropbox\program\spicyberry_ver1_3\spicyberry_ver1_1\Debug\sci1.obj"
+-input="C:\Users\hata\Dropbox\program\spicyberry_ver1_3\spicyberry_ver1_1\Debug\sci2.obj"
+-input="C:\Users\hata\Dropbox\program\spicyberry_ver1_3\spicyberry_ver1_1\Debug\servo_class.obj"
+-input="C:\Users\hata\Dropbox\program\spicyberry_ver1_3\spicyberry_ver1_1\Debug\spicyberry_ver1_1.obj"
+-input="C:\Users\hata\Dropbox\program\spicyberry_ver1_3\spicyberry_ver1_1\Debug\vecttbl.obj"
+-library="C:\Users\hata\Dropbox\program\spicyberry_ver1_3\spicyberry_ver1_1\Debug\spicyberry_ver1_1.lib"
+-output="C:\Users\hata\Dropbox\program\spicyberry_ver1_3\spicyberry_ver1_1\Debug\spicyberry_ver1_1.abs"
+-end
+
+*** Error information ***
+
+*** Mapping List ***
+
+SECTION                            START      END         SIZE   ALIGN
+
+DVECTTBL
+                                  00000000  0000000f        10   4
+DINTTBL
+                                  00000010  000003ff       3f0   4
+PIntPRG
+                                  00000400  000006d3       2d4   4
+PResetPRG
+                                  00000800  00000843        44   4
+P
+                                  00001000  0000321f      2220   4
+C
+                                  00003220  0000322b         c   4
+C$BSEC
+                                  0000322c  00003233         8   4
+C$DSEC
+                                  00003234  0000323f         c   4
+C$INIT
+                                  00003240  00003240         0   4
+D
+                                  00003240  0000325f        20   4
+B
+                                  ffffa000  ffffa55b       55c   4
+R
+                                  ffffa55c  ffffa57b        20   4
+S
+                                  ffffbc00  ffffbfff       400   4

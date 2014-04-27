@@ -1,0 +1,4 @@
+-cpu=sh2
+-output="C:\Users\mokuoh8823\Desktop\spicyberry_ver1_1\spicyberry_ver1_1\Debug\spicyberry_ver1_1.lib"
+-gbr=auto
+-head=runtime,new,math,mathf,stdio,stdlib,string
